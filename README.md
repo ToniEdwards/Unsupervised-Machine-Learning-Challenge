@@ -1,1 +1,11 @@
 # Unsupervised-Machine-Learning-Challenge
+![image](https://user-images.githubusercontent.com/90237519/156261259-90c35baa-842b-4160-8ec6-1e73c5f38a54.png)
+![image](https://user-images.githubusercontent.com/90237519/156261282-8933353f-1eb5-4cb7-80b3-9c7775185af7.png)
+![image](https://user-images.githubusercontent.com/90237519/156261297-1064d24e-8d01-4f0e-b778-33979ad8c9b7.png)
+![image](https://user-images.githubusercontent.com/90237519/156261310-777755ea-1b22-4848-9f6d-57ea583849ff.png)
+![image](https://user-images.githubusercontent.com/90237519/156261321-7a3486b4-4747-4bc5-8d94-b81226bc77f6.png)
+![image](https://user-images.githubusercontent.com/90237519/156261343-e96a7fd1-3113-4a0f-8340-3b287485c134.png)
+![image](https://user-images.githubusercontent.com/90237519/156261353-1214ae1f-c5c6-470c-90f7-83d4640ae3f4.png)
+![image](https://user-images.githubusercontent.com/90237519/156261370-5026f2dc-5ff9-4c96-a937-80878caa7d4a.png)
+![image](https://user-images.githubusercontent.com/90237519/156261390-2c5fcac9-755e-41d7-853b-32d3aa39da58.png)
+![image](https://user-images.githubusercontent.com/90237519/156261405-a4a16333-7a87-4d66-b561-d12063b5c4db.png)
